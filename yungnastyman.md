@@ -1,7 +1,6 @@
 # The Hexblade
 
-[Build Reference](https://www.youtube.com/watch?v=VZCKE2e9BPw)
-
+[Build Reference](https://www.youtube.com/watch?v=VZCKE2e9BPw) | [↓ Items](#items)
 ---
 
 ### Level 1
