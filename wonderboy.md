@@ -119,7 +119,7 @@ Class: Monk
 ⬜ Gloves of Dexterity
 - `Crèche Y'llek` Sold by A'jak'nir Jeera `X: 1380 Y: -798`
 
-**Note:** Respec once Gloves of Dexterity are equipped:
+  **Note:** Respec once Gloves of Dexterity are equipped:
 
     | Ability | Score | Modifier |
     |---------|-------|----------|
