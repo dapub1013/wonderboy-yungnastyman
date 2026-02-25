@@ -149,69 +149,68 @@ Feat: Alert
 
 ## Early
 
-[ ] Helm: Haste Helm
-  - Location
+⬜ Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
+- `Druid Grove` Looted from **Kagha** either by killing or by knocking her unconscious with non-lethal attacks.
 
-[ ] Chest: Hide Armour +2
-  - Goblin Camp Grat
+⬜ Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
+  - `Crèche Y'llek` Sold by **A'jak'nir Jeera** `X: 1380 Y: -798`
 
-[ ] Chest: Adamantine Scale Mail
-  - Location
+⬜ Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
+  - `Grymforge` Worn by **Nere**; looted from his corpse `X: -854 Y: 780`
 
-[ ] Hands: Gloves of the Growling Underdog
-  - Location
+⬜ Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+  - `Blighted Village` Inside a Moss-Covered Chest near the well `X: 29 Y: 405`
 
-[ ] Hands: Gloves of Dexterity
-  - Location
+⬜ Medium Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
+  - `Grymforge` Crafted at the Adamantine Forge using a Scale Mail Mould and Mithral Ore
 
-[ ] Boots: Vital Conduit Boots
-  - Location
+⬜ Medium Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
+  - `Goblin Camp` Sold by **Grat the Trader**
 
-[ ] Boots: Disintegrating Night Walkers
-  - Location
+⬜ Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
+  - `Crèche Y'llek` Sold by **A'jak'nir Jeera** `X: 1380 Y: -798`
 
-[ ] Amulet: Broodmother's Revenge
-  - Location
+⬜ Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
+  - `Shattered Sanctum` Inside treasure crates behind the locked iron gate in Dror Ragzlin's area `X: 298 Y: 66`
 
-[ ] Ring: Caustic Band
-  - Location
+⬜ Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
+  - `Underdark` Sold by **Derryth Bonecloak** at Ebonlake Grotto
 
-[ ] Ring: Crusher's Ring
-  - Location
+⬜ Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
+  - `Goblin Camp` Worn by **Crusher**; slip it off his toe when he demands you kiss his foot, or loot from his corpse
 
-[ ] Off-hand: Safeguard Shield
-  - Druid Grove
+⬜ Shield: [Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)
+  - `Goblin Camp` Inside a locked chest on the ridge behind the camp `X: -53 Y: 470`
 
-[ ] Off-hand: Glowing Shield
-  - Location
+⬜ Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
+  - `Druid Grove` Sold by **Dammon**
 
-[ ] Ranged: Bow of Awarness
-  - Location
+⬜ Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
+  - `Shattered Sanctum` Sold by **Roah Moonglow** `X: 272 Y: -31`
 
 ---
-
 ## Later
 
-[ ] Helm: Birthright
-  - Location
+⬜ Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
+  - `Last Light Inn` Sold by **Quartermaster Talli**
 
-[ ] Back: Cloak of Protection
-  - Location
+⬜ Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
+- `House of Hope` Worn by **Haarlep** in the Boudoir `X: -6478 Y: 2993`
 
-[ ] Chest: Helldusk Armor
-  - Location
+⬜ Heavy Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
+  - `House of Hope` Looted from **Raphael**
 
-[ ] Ring: Ring of Arcane Synergy
-  - Location
+⬜ Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
+  - `Sorcerous Sundries` Sold by **Rolan** on the ground floor
 
-[ ] Hands: Helldusk Gloves
-  - Location
+⬜ Ring: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
+  - `Crèche Y'llek` Looted from **Gish Far'aag** at the creche entrance `X: 1359 Y: -831`
 
-[ ] Off-hand: Belm
-  - Location
+⬜ Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
+  - `Lower City` Inside an opulent chest in the basement of Elerrathin's Home (behind a locked bookcase, DC 18 Sleight of Hand)
 
-[ ] Ranged: The Dead Shot
-  - Location
+⬜ Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
+  - `Lower City` Sold by **Fytz the Firecracker** at Stormshore Armoury
 
-[ ] Item: Resonance Stone
-  - Location
+⬜ Item: Resonance Stone
+  - `Mind Flayer Colony` Found on a table near the Mind-Archive Interface (southwest of Necrotic Laboratory)

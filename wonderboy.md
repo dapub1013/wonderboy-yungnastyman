@@ -99,35 +99,26 @@ Class: Monk
 
 ## Act 1
 
-[ ] Corellon's Grace
-
+⬜ Corellon's Grace
   - `Emerald Grove` Sold by Auntie Ethel Auntie Ethel `X: 192 Y: 546`
 
-[ ] Hunting Shortbow
-
+⬜ Hunting Shortbow
  - `Emerald Grove` Sold by Dammon Dammon `X: 177 Y: 562`
 
-[ ] Bracers of Defense
+⬜ Bracers of Defense
+- `Apothecary's Cellar` In a gilded chest in the secret cellar area of the Apothecary, beneath the Blighted Village `X: -656 Y: -370`
 
-  - `Apothecary's Cellar` In a gilded chest in the secret cellar area of the Apothecary, beneath the Blighted Village `X: -656 Y: -370`
+⬜ Haste Helm
+- `Blighted Village` Inside the Moss-Covered Chest `X: 29 Y: 405`
 
-[ ] Haste Helm
+⬜ Crusher's Ring
+- `Goblin Camp` Worn by Crusher `X: -70 Y: 439`
 
-  - `Blighted Village` Inside the Moss-Covered Chest `X: 29 Y: 405`
+⬜ Moondrop Pendant
+- `Owlbear Nest` In a Selûnite gilded chest `X: -321 Y: -135`
 
-[ ] Crusher's Ring
-
-  - `Goblin Camp` Worn by Crusher `X: -70 Y: 439`
-
-  - **Note:** This item cannot be stolen by normal means. However, it is possible to slip the ring off his toe when he demands to kiss his feet, or kill Crusher to loot it from his corpse.
-
-[ ] Moondrop Pendant
-
-  - `Owlbear Nest` In a Selûnite gilded chest `X: -321 Y: -135`
-
-[ ] Gloves of Dexterity
-
-  - `Crèche Y'llek` Sold by A'jak'nir Jeera `X: 1380 Y: -798`
+⬜ Gloves of Dexterity
+- `Crèche Y'llek` Sold by A'jak'nir Jeera `X: 1380 Y: -798`
 
   - **Note:** Respec once Gloves of Dexterity are equipped:
 
@@ -140,57 +131,47 @@ Class: Monk
     | Wisdom | 15 | - |
     | Charisma | 8 | — |
 
-[ ] Bloodguzzler Garb
+⬜ Bloodguzzler Garb
+- `Underdark` Looted from the Bulette
 
-  - `Underdark` Looted from the Bulette
+⬜ Boots of Genial Striding
+- `Ebonlake Grotto` Sold by Blurg `X: 111 Y: -89`
 
-[ ] Boots of Genial Striding
+⬜ Ring of Protection
+- `Tiefling Hideout` Rewarded by Mol for completing the quest Steal the Sacred Idol in the Emerald Grove `X: 84 Y: 73`
 
- - `Ebonlake Grotto` Sold by Blurg `X: 111 Y: -89`
-
-[ ] Ring of Protection
-
-  - `Tiefling Hideout` Rewarded by Mol for completing the quest Steal the Sacred Idol in the Emerald Grove `X: 84 Y: 73`
-
-[ ] Crusher's Ring
-
-  - `Goblin Camp` Worn by Crusher `X: -70 Y: 439`
+⬜ Crusher's Ring
+- `Goblin Camp` Worn by Crusher `X: -70 Y: 439`
 
 ---
 
 ## Act 2
 
-[ ] Cloak of Protection
+⬜ Cloak of Protection
+- `Last Light Inn` Sold by Quartermaster Talli Quartermaster Talli near the Last Light Inn waypoint `X: -31 Y: 130`
 
-  - `Last Light Inn` Sold by Quartermaster Talli Quartermaster Talli near the Last Light Inn waypoint `X: -31 Y: 130`
+⬜ Callous Glow Ring *(optional)*
+- `Gauntlet of Shar` In an opulent chest in the vault room near Balthazar Balthazar `X: -821 Y: -752`
 
-[ ] Callous Glow Ring *(optional)*
-
- - `Gauntlet of Shar` In an opulent chest in the vault room near Balthazar Balthazar `X: -821 Y: -752`
-
-[ ] Darkfire Shortbow
-
- - `Last Light Inn` Sold by Dammon in Act Two `X: -33 Y: 164`
+⬜ Darkfire Shortbow
+- `Last Light Inn` Sold by Dammon in Act Two `X: -33 Y: 164`
 
 ---
 
 ## Act 3
 
-[ ] Horns of the Berserker
+⬜ Horns of the Berserker
+- `Danthelion's Dancing Axe` Sold by Enthari Denthelon `X: -10 Y: 143`
 
-  - `Danthelion's Dancing Axe` Sold by Enthari Denthelon `X: -10 Y: 143`
+⬜ Vest of Soul Rejuvination
+- `Sorcerous Sundries` Sold by Lorroakan's Projection if Rolan is dead
 
-[ ] Vest of Soul Rejuvination
+- `Sorcerous Sundries` Sold by Rolan if Rolan and Lorroakan are both alive
 
-  - `Sorcerous Sundries` Sold by Lorroakan's Projection if Rolan is dead
+- `Ramazith's Tower` Sold by Rolan via trade option on the bottom left during the dialogue if Rolan is alive but Lorroakan is dead
 
-  - `Sorcerous Sundries` Sold by Rolan if Rolan and Lorroakan are both alive
-
-  - `Ramazith's Tower` Sold by Rolan via trade option on the bottom left during the dialogue if Rolan is alive but Lorroakan is dead
-
-[ ] Gloves of Soul Catching
-
-  - `House of Hope` Given by Hope for completing her quest '⁠Save Hope' `X: -6477 Y: 2884`
+⬜ Gloves of Soul Catching
+- `House of Hope` Given by Hope for completing her quest '⁠Save Hope' `X: -6477 Y: 2884`
 
   - **Note:** Respec once Gloves of Soul Catching are equipped *and* Elixirs of Cloud Giant Strength are avaiable:
 
@@ -203,15 +184,11 @@ Class: Monk
     | Wisdom | 20 | - |
     | Charisma | 9 | — |
 
-[ ] Boots of Unihibited Kushigo
+⬜ Boots of Unihibited Kushigo
+- `Astral Plane` Carried by Prelate Lir'i'c as entering Act Three `X: -163 Y: -1158`
 
-  - `Astral Plane` Carried by Prelate Lir'i'c as entering Act Three `X: -163 Y: -1158`
-
-[ ] Khalid's Gift
-
-  - `Elerrathin's Home` In a display case in the basement `X: -1572 Y: 976`
-
-  - **Note:** May not be available if Jaheira is not recruited (?)
+⬜ Khalid's Gift
+- `Elerrathin's Home` In a display case in the basement `X: -1572 Y: 976` **Note:** May not be available if Jaheira is not recruited (?)
 
 ---
 
@@ -219,13 +196,11 @@ Class: Monk
 
 ### Act 1
 
-[ ] Elixirs of Hill Giant Strength
-
-  - `Druid's Grove` Buy from Auntie Ethel *before* starting her quest. **Note:** Do not go south of the Blighted Village until you no longer need these elixirs.
+⬜ Elixirs of Hill Giant Strength
+- `Druid's Grove` Buy from Auntie Ethel *before* starting her quest. **Note:** Do not go south of the Blighted Village until you no longer need these elixirs.
 
 ### Act 3
 
-[ ] Elixirs of Cloud Giant Strength
-
-  - There are a ton *starting at level 9* [BG3 Wiki](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength)
+⬜ Elixirs of Cloud Giant Strength
+- There are a ton *starting at level 9* [BG3 Wiki](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength)
 
