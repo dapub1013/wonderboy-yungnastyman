@@ -1,7 +1,6 @@
 # Wonderboy's Flawless Rogue Monk
 
-[Build Reference](https://www.youtube.com/watch?v=waCUspr6EUU)
-
+[Build Reference](https://www.youtube.com/watch?v=waCUspr6EUU) | [↓ Items](#items)
 ---
 
 ### Level 1
