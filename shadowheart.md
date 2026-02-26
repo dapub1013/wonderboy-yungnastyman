@@ -174,6 +174,9 @@ Feat: Ability Improvement
 
 ## Act 1
 
+⬜ Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
+  - `Underdark` In a locked and trapped opulent chest at Selûnite Outpost
+
 ⬜ Boots: [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
   - `Goblin Camp` Sold by Grat
 
@@ -191,9 +194,6 @@ Feat: Ability Improvement
 
 ⬜ Longsword: [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve)
   - `Underdark` Embedded inside a rock
-
-⬜ Medium Armour: [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)
-  - `Underdark` In a locked and trapped opulent chest at Selûnite Outpost
 
 ⬜ Quarterstave: [Staff of Arcane Blessing](https://bg3.wiki/wiki/Staff_of_Arcane_Blessing)
   - `Underdark` Leaning against a table in the basement at Arcane Tower

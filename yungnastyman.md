@@ -149,7 +149,13 @@ Feat: Alert
 ## Early
 
 ⬜ Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
-- `Druid Grove` Looted from **Kagha** either by killing or by knocking her unconscious with non-lethal attacks.
+  - `Druid Grove` Looted from **Kagha** either by killing or by knocking her unconscious with non-lethal attacks.
+
+✅ Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
+  - `Grymforge` Crafted at the Adamantine Forge using a Scale Mail Mould and Mithral Ore
+
+⬜ Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
+  - `Goblin Camp` Sold by **Grat the Trader**
 
 ⬜ Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera** `X: 1380 Y: -798`
@@ -157,14 +163,8 @@ Feat: Alert
 ⬜ Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse `X: -854 Y: 780`
 
-⬜ Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+❌ Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well `X: 29 Y: 405`
-
-⬜ Medium Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
-  - `Grymforge` Crafted at the Adamantine Forge using a Scale Mail Mould and Mithral Ore
-
-⬜ Medium Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
-  - `Goblin Camp` Sold by **Grat the Trader**
 
 ⬜ Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera** `X: 1380 Y: -798`
@@ -190,14 +190,14 @@ Feat: Alert
 ---
 ## Later
 
+⬜ Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
+  - `House of Hope` Looted from **Raphael**
+
 ⬜ Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
   - `Last Light Inn` Sold by **Quartermaster Talli**
 
 ⬜ Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
-- `House of Hope` Worn by **Haarlep** in the Boudoir `X: -6478 Y: 2993`
-
-⬜ Heavy Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
-  - `House of Hope` Looted from **Raphael**
+  - `House of Hope` Worn by **Haarlep** in the Boudoir `X: -6478 Y: 2993`
 
 ⬜ Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
   - `Sorcerous Sundries` Sold by **Rolan** on the ground floor
