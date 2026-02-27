@@ -122,7 +122,7 @@ Class: Monk
   - `House of Hope` Given by Hope for completing her quest '⁠Save Hope' `X: -6477 Y: 2884`
   - Once equipped, update your ability scores and begin using Elixirs of Cloud Giant Strength.
 
-**Note:** [↓ Respec your ability scores](#gloves-of-soul-catching-ability-scores) once Gloves of Soul Catching are equipped *and* [↓ Elixirs](#elixirs) of Cloud Giant Strength are avaiable:
+  **Note:** [↓ Respec your ability scores](#gloves-of-soul-catching-ability-scores) once Gloves of Soul Catching are equipped *and* [↓ Elixirs](#elixirs) of Cloud Giant Strength are avaiable:
 
 [x] Helmet: [Horns of the Berserker](https://bg3.wiki/wiki/Horns_of_the_Berserker)
   - `Danthelion's Dancing Axe` Sold by Enthari Denthelon `X: -10 Y: 143`
