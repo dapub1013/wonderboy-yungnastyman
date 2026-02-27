@@ -140,10 +140,11 @@ Class: Monk
 
 # Elixirs
 
-Elixirs of Cloud Giant Strength
-  - There are a ton *starting at level 9* [BG3 Wiki](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength)
+[Elixirs of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength)
 
 ---
+
+# Miscellaneous
 
 ## Gloves of Soul Catching Ability Scores
 
