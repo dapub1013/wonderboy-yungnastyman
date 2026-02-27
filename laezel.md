@@ -1,4 +1,4 @@
-## Lae'zel: Companion Fighter
+# Lae'zel: Companion Fighter
 
 [Build Reference](https://eip.gg/bg3/builds/companion-laezel/) | [↓ Items](#items)
 
