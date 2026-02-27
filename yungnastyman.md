@@ -1,6 +1,7 @@
-# The Hexblade
+# Yungnastyman's Hexblade
 
 [Build Reference](https://www.youtube.com/watch?v=VZCKE2e9BPw) | [↓ Items](#items)
+
 ---
 
 ### Level 1
@@ -148,68 +149,68 @@ Feat: Alert
 
 ## Early
 
-⬜ Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
+[ ] Amulet: [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)
   - `Druid Grove` Looted from **Kagha** either by killing or by knocking her unconscious with non-lethal attacks.
 
-✅ Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
+[ ] Armour: [Adamantine Scale Mail](https://bg3.wiki/wiki/Adamantine_Scale_Mail)
   - `Grymforge` Crafted at the Adamantine Forge using a Scale Mail Mould and Mithral Ore
 
-⬜ Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
+[ ] Armour: [Hide Armour +2](https://bg3.wiki/wiki/Hide_Armour_%2B2)
   - `Goblin Camp` Sold by **Grat the Trader**
 
-⬜ Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
+[ ] Boots: [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera** `X: 1380 Y: -798`
 
-⬜ Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
+[ ] Boots: [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)
   - `Grymforge` Worn by **Nere**; looted from his corpse `X: -854 Y: 780`
 
-❌ Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+[ ] Helmet: [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
   - `Blighted Village` Inside a Moss-Covered Chest near the well `X: 29 Y: 405`
 
-⬜ Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
+[ ] Gloves: [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_dexterity)
   - `Crèche Y'llek` Sold by **A'jak'nir Jeera** `X: 1380 Y: -798`
 
-⬜ Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
+[ ] Gloves: [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)
   - `Shattered Sanctum` Inside treasure crates behind the locked iron gate in Dror Ragzlin's area `X: 298 Y: 66`
 
-⬜ Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
+[ ] Ring: [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
   - `Underdark` Sold by **Derryth Bonecloak** at Ebonlake Grotto
 
-⬜ Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
+[ ] Ring: [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
   - `Goblin Camp` Worn by **Crusher**; slip it off his toe when he demands you kiss his foot, or loot from his corpse
 
-⬜ Shield: [Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)
+[ ] Shield: [Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)
   - `Goblin Camp` Inside a locked chest on the ridge behind the camp `X: -53 Y: 470`
 
-⬜ Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
+[ ] Shield: [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
   - `Druid Grove` Sold by **Dammon**
 
-⬜ Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
+[ ] Shortbow: [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
   - `Shattered Sanctum` Sold by **Roah Moonglow** `X: 272 Y: -31`
 
 ---
 ## Later
 
-⬜ Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
+[ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
   - `House of Hope` Looted from **Raphael**
 
-⬜ Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
+[ ] Cloak: [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
   - `Last Light Inn` Sold by **Quartermaster Talli**
 
-⬜ Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
+[ ] Gloves: [Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)
   - `House of Hope` Worn by **Haarlep** in the Boudoir `X: -6478 Y: 2993`
 
-⬜ Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
+[ ] Helmet: [Birthright](https://bg3.wiki/wiki/Birthright)
   - `Sorcerous Sundries` Sold by **Rolan** on the ground floor
 
-⬜ Ring: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
+[ ] Ring: [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
   - `Crèche Y'llek` Looted from **Gish Far'aag** at the creche entrance `X: 1359 Y: -831`
 
-⬜ Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
+[ ] Scimitar: [Belm](https://bg3.wiki/wiki/Belm)
   - `Lower City` Inside an opulent chest in the basement of Elerrathin's Home (behind a locked bookcase, DC 18 Sleight of Hand)
 
-⬜ Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
+[ ] Longbow: [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
   - `Lower City` Sold by **Fytz the Firecracker** at Stormshore Armoury
 
-⬜ Item: Resonance Stone
+[ ] Item: Resonance Stone
   - `Mind Flayer Colony` Found on a table near the Mind-Archive Interface (southwest of Necrotic Laboratory)
