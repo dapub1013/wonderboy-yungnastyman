@@ -87,20 +87,14 @@ Feat: Mage Slayer
 
 # Items
 
-## Early Game
-
 [x] Greatsword: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker_Greatsword)
   - `Crèche Y'llek` Carried by **Kith'rak Therezzyn** in the Captain's Quarters `X: 1408 Y: -763`
-
-## Mid-game
 
 [x] Armour: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper%27s_Embrace)
   - `Mind Flayer Colony` Worn by **Ketheric Thorm** `X: 861 Y: -23`
 
 [x] Helmet: [Grymskull Helm](https://bg3.wiki/wiki/Grymskull_Helm)
   - `Adamantine Forge` Carried by **Grym** `X: -557 Y: 234`
-
-## Late Game
 
 [ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
   - `House of Hope` Looted from **Raphael**
