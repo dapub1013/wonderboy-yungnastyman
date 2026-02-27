@@ -87,29 +87,26 @@ Feat: Mage Slayer
 
 # Items
 
-[x] Greatsword: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker_Greatsword)
-  - `Crèche Y'llek` Carried by **Kith'rak Therezzyn** in the Captain's Quarters `X: 1408 Y: -763`
-
 [x] Armour: [Reaper's Embrace](https://bg3.wiki/wiki/Reaper%27s_Embrace)
   - `Mind Flayer Colony` Worn by **Ketheric Thorm** `X: 861 Y: -23`
+
+[ ] Greatsword: [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/Silver_Sword_of_the_Astral_Plane)
+  - `Lower City Sewers` Rewarded for showing the **Orphic Hammer** to (or killing) **Kith'rak Voss** after agreeing to meet him in the sewers within the Undercity in Act 3 `X: -70 Y: 828`
+
+[x] Greatsword: [Soulbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker_Greatsword)
+  - `Crèche Y'llek` Carried by **Kith'rak Therezzyn** in the Captain's Quarters `X: 1408 Y: -763`
 
 [x] Helmet: [Grymskull Helm](https://bg3.wiki/wiki/Grymskull_Helm)
   - `Adamantine Forge` Carried by **Grym** `X: -557 Y: 234`
 
-[ ] Armour: [Helldusk Armor](https://bg3.wiki/wiki/Helldusk_armor)
-  - `House of Hope` Looted from **Raphael**
+[ ] Helmet: [Mask of Soul Perception](https://bg3.wiki/wiki/Mask_of_Soul_Perception)
+  - `Devil's Fee` In a locked Gilded Chest (DC 20 Sleight of Hand Check) in **Helsik's** room upstairs `X: -33 Y: 20`
 
 [x] Cloak: [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
   - `Danthelon's Dancing Axe` Sold by **Entharl Danthelon** in Wyrm's Crossing `X: -10 Y: 143 `
 
 [x] Gloves: [Legacy of the Masters](https://bg3.wiki/wiki/Legacy_of_the_Masters)
   - `Forge of the Nine` Sold by **Dammon** in Act 3 `X: 392 Y: 766`
-
-[ ] Greatsword: [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/Silver_Sword_of_the_Astral_Plane)
-  - `Lower City Sewers` Rewarded for showing the **Orphic Hammer** to (or killing) **Kith'rak Voss** after agreeing to meet him in the sewers within the Undercity in Act 3 `X: -70 Y: 828`
-
-[ ] Helmet: [Mask of Soul Perception](https://bg3.wiki/wiki/Mask_of_Soul_Perception)
-  - `Devil's Fee` In a locked Gilded Chest (DC 20 Sleight of Hand Check) in **Helsik's** room upstairs `X: -33 Y: 20`
 
 ---
 
