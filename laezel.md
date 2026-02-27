@@ -112,4 +112,7 @@ Feat: Mage Slayer
 
 # Elixirs
 
-Elixirs of Bloodlust
+[Elixirs of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust)
+  - Sold by **Popper Popper** at the `Circus of the Last Days`
+  - Sold by **Entharl Danthelon** in `Danthelon's Dancing Axe`
+  - Sold by **Derryth Bonecloak** in `Bonecloak's Apothecary`⁠
