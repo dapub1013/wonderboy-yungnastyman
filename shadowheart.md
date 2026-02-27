@@ -200,5 +200,5 @@ Feat: Ability Improvement
 [ ] Ring: [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
   - `Goblin Camp` Sold by Grat, or by **Volo** at the Sacred Pool
 
-[ ] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
+[x] Shield: [Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)
   - `Mind Flayer Colony` Carried by Ketheric Thorm when fought a second time
